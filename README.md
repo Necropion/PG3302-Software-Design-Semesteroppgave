@@ -1,4 +1,4 @@
-# Next Gaming - A recommendation system
+# PG3302 Software Design Semesteroppgave
 
 ### Karakter: B
 
