@@ -4,14 +4,14 @@
 
 Eksamensoppgaven handlet om å lage en applikasjon i et team fra bunn. Målet var å bruke god tid på å planlegge hvordan strukturen til koden skulle se ut og implementere alle relevante teknologier.
 
-Merkeverdige teknologier med applikasjonen:
+### Merkeverdige teknologier med applikasjonen:
 - Model View Controller kode struktur.
 - Kodebasen følger Objekt Orientert Programmering og SOLID prinsipper.
 - Prosjektet bruktet SQLite som Lokalt Database
 - Interaktiv og Intuitivt bruker meny for å utføre relevante funksjoner
 - En algoritme som jobber for å anbefalle deg spill som DU er interresert i
 
----Hurtigstartguide---
+### Hurtigstartguide
 
 Det er mulig at før du får kjørt programmet i deres IDE, så må du kjøre kommandoen 'dotnet restore' for å laste ned dependencies for programmet. Dette må gjøres i prosjektets root mappe.
 
