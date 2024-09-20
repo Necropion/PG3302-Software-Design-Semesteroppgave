@@ -1,29 +1,5 @@
 # Next Gaming - A recommendation system
 
----Quick start guide---
-<p>To get started with the application after it is run or compiled, the navigation menu should
-pop up giving you 5 options to choose from, using key presses to navigate up/down the
-menu and hitting enter on selection choice.</p>
-<p>Inside the Browse menu, you can navigate through the games in the existing library, each
-page displays up to 10 games and scrolling through is done by hitting the next and previous
-page options. Selecting a game will display the game’s information and give you the options
-to either remove or add the game to your interest list or go back.</p>
-<p>Inside the interest list you’ll get a display of the games added, these can also be selected and
-inspected. You’ll also have two new menu options: “Add games to interest list” and “look for
-recommendations”.</p>
-<p>If you select the navigation option “Add games to interest list”, you’ll be navigated to an inner
-menu/list displaying only games that are not inside your interest list. It will also have
-dynamic count which shows how many games that are left.</p>
-<p>Going back, you will return to the interest list. The last option in this menu, look for
-recommendations, will navigate you to the recommended games page. This page will only
-display recommendations if you have games inside your interest list, giving you top 5 games
-matching your interests. This page can also be accessed through the main menu, through the
-third option, “recommendations”.</p>
-<p>No matter which menu you are in, by selecting a game and pressing enter, you'll get
-prompted with a menu that lets you either add or remove said game, based on if the game is
-already in your interest list.</p>
-<p>The fourth option is “Reset” this is more of a development functionality that we wanted to
-keep in case the user wants to reset their interest list. The last option is to exit the
-programming.</p>
+---Hurtigstartguide---
 
-<h2>!!!Please read the report for a thorough walkthrough of the application!!!</h2>
+<p>For å komme i gang med applikasjonen etter at den er kjørt eller kompilert, skal navigasjonsmenyen dukke opp og gi deg 5 valg å velge mellom, der du bruker tastetrykk for å navigere opp/ned i menyen og trykker enter for å velge et alternativ.</p> <p>Inne i Bla gjennom-menyen kan du navigere gjennom spillene i det eksisterende biblioteket, hver side viser opptil 10 spill, og du blar gjennom ved å trykke på neste og forrige side-alternativer. Ved å velge et spill vil du få opp informasjon om spillet, og du får valget om å fjerne eller legge til spillet i interesselisten, eller gå tilbake.</p> <p>Inne i interesselisten vil du få en visning av de spillene som er lagt til, disse kan også velges og inspiseres. Du vil også ha to nye menyalternativer: “Legg til spill i interesselisten” og “se etter anbefalinger”.</p> <p>Hvis du velger navigasjonsvalget “Legg til spill i interesselisten”, vil du bli navigert til en undermeny/liste som viser kun spill som ikke er i interesselisten din. Den vil også ha en dynamisk teller som viser hvor mange spill som er igjen.</p> <p>Ved å gå tilbake kommer du tilbake til interesselisten. Det siste alternativet i denne menyen, “se etter anbefalinger”, vil navigere deg til anbefalingssiden. Denne siden vil bare vise anbefalinger hvis du har spill i interesselisten din, og den gir deg topp 5 spill som matcher interessene dine. Denne siden kan også nås via hovedmenyen, gjennom det tredje alternativet, “anbefalinger”.</p> <p>Uansett hvilken meny du er i, ved å velge et spill og trykke enter, vil du få opp en meny som lar deg enten legge til eller fjerne det valgte spillet, avhengig av om spillet allerede er i interesselisten din.</p> <p>Det fjerde alternativet er “Tilbakestill”, dette er mer en utviklerfunksjonalitet som vi ønsket å beholde i tilfelle brukeren ønsker å tilbakestille interesselisten sin. Det siste alternativet er å avslutte programmet.</p>
